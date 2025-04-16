@@ -1,7 +1,7 @@
 # SITE CONFIGURATION
 title: Dev_Time # your site title
 author: Dev-Time1025 # You :P
-description: > 이 사이트는 개발자 Dev_Time의 어플 소개 사이트입니다.# Meta description of Homepage
+description: 이 사이트는 개발자 Dev_Time의 어플 소개 사이트입니다.# Meta description of Homepage
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://Dev-Time1025.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
